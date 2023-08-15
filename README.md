@@ -2,8 +2,6 @@
 
 This is the first file in this repository. YAY!!!
 
-## Ipsum Below
+## Website Content
 
-This guy online said to type whatever I wanted from here.
-
-This guy said to add even more text that is even more random.
+1. index.html
